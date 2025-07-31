@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f0f4f8;
+    color: #023436;
+  }
+  
+  header {
+    background-color: #03B5AA;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 28px;
+  }
+  
+  .main-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #map {
+    height: 500px;
+    flex: 1;
+  }
+  
+  .sidebar {
+    width: 300px;
+    background-color: #ffffff;
+    border-left: 3px solid #03B5AA;
+    padding: 20px;
+    box-shadow: -4px 0 8px rgba(0,0,0,0.05);
+    overflow-y: auto;
+  }
+  
+  .sidebar h2 {
+    margin-top: 0;
+    color: #03B5AA;
+  }
+  
+  .vehicle-card {
+    background-color: #f6f9fc;
+    border: 1px solid #ccc;
+    border-left: 5px solid #FF8552;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+  }
+  
+  .vehicle-card .emoji {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .vehicle-card p {
+    margin: 4px 0;
+    font-size: 14px;
+  }
+  
+  footer {
+    background-color: #023436;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
