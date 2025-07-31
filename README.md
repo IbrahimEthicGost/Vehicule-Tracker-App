@@ -29,7 +29,7 @@ Each vehicle is represented with a unique **emoji icon** and includes key detail
 vehicle-tracker-site/
 ├── index.html # Main HTML file
 ├── style.css # Styling (responsive layout, sidebar, colors)
-└── script.js # JS logic for movement and data updates
+|── script.js # JS logic for movement and data updates
 
 ---
 
@@ -40,20 +40,17 @@ vehicle-tracker-site/
    git clone https://github.com/your-username/vehicle-tracker-site.git
 Open index.html in your browser:
 
-Double-click the file
-
-Or right-click > “Open with Browser”
-
+-Double-click the file
+-Or right-click > “Open with Browser”
 ✅ No installations or dependencies required.
 
-📦 Tech Stack
-HTML5
+---
 
-CSS3
+## 📦 Tech Stack
 
-JavaScript
-
-Leaflet.js for the map
-
-Unicode Emojis for vehicle icons
+-HTML5
+-CSS3
+-JavaScript
+-Leaflet.js for the map
+-Unicode Emojis for vehicle icons
 
