@@ -40,17 +40,18 @@ vehicle-tracker-site/
    git clone https://github.com/your-username/vehicle-tracker-site.git
 Open index.html in your browser:
 
--Double-click the file
--Or right-click > “Open with Browser”
+- Double-click the file
+- Or right-click > “Open with Browser”
 ✅ No installations or dependencies required.
 
 ---
 
 ## 📦 Tech Stack
-
--HTML5
--CSS3
--JavaScript
--Leaflet.js for the map
--Unicode Emojis for vehicle icons
+ 
+✅ This virtual app was built using:
+- HTML5
+- CSS3
+- JavaScript
+- Leaflet.js for the map
+- Unicode Emojis for vehicle icons
 
