@@ -55,3 +55,14 @@ Open index.html in your browser:
 - Leaflet.js for the map
 - Unicode Emojis for vehicle icons
 
+---
+
+## 👨‍💻 Author
+
+Developed by Ibrahim – 🇩🇿
+Created for practical and educational web applications in Algeria and beyond 🚀
+
+## 🪪 License
+
+You are free to use, modify, and share it as you like.
+
